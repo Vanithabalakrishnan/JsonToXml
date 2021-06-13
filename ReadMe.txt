@@ -26,7 +26,7 @@ Clone repository.
 
   git clone https://github.com/Vanithabalakrishnan/JsonToXml.git
 
-  1. JSON_XML_JAR : Project contains the project to execute the project as per the specification
+  1. JSON_XML_JAR.jar : Project contains the project to execute the project as per the specification. Kindly unzip the file to execute as per below command.
         To execute the the project
         java -j JSON_XML.jar <<input file>> <<Output file>>
-  2. JSON_XML : Project contains the actual implementation along with the Junit test case [90% coverage]
+  2. JSON_XML.jar : Project contains the actual implementation along with the Junit test case [90% coverage]. Kindly unzip the file to have a look on the development
